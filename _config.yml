@@ -11,9 +11,9 @@
 
 title: Simpson工作日常                          # the main title
 
-tagline: 拖延症晚期患者.
-         运动爱好是睡觉.
-         ECNU_LPS实验室光学博士在读  # it will display as the sub-title
+tagline: 拖延症晚期患者\n
+         运动爱好是睡觉\n
+         ECNU_LPS实验室光学博士在读\n  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
