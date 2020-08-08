@@ -6,11 +6,14 @@
 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# 我更改了cotes大佬的模板20200808
 #--------------------------
 
-title: Simpson的日常工作                          # the main title
+title: Simpson工作日常                          # the main title
 
-tagline: 拖延症晚期.  # it will display as the sub-title
+tagline: 拖延症晚期患者.
+         运动爱好是睡觉.
+         ECNU_LPS实验室光学博士在读  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -18,25 +21,25 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://Gu-euth.github.io'
 
-author: your_full_name                  # change to your full name
+author: Simpson Wang                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: Gu-euth             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Gu-euth                  # it will shows as the copyright owner in Footer
+  email: gueuth@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/Gu-euth       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
